@@ -169,7 +169,7 @@ $("document").ready(function() {
 
     $("#myModel").click(function() {
         var deliver = confirm(
-            "Would you like us deliver your pizza to your doorstep? transport cost ksh 150."
+            "Would you like us deliver your pizza to your doorstep? transport cost ksh 200."
         );
         if (deliver) {
             var place = prompt("Enter your location");
