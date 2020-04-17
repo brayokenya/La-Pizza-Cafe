@@ -69,12 +69,6 @@ i {
     text-align: center;
 }
 
-footer {
-    height: 50vh;
-    background-color: black;
-    margin-top: 50px;
-}
-
 #brand {
     color: #247a00;
     padding: 50px 0 0 50px;
@@ -91,15 +85,6 @@ footer {
     height: 45vh;
     left: 50%;
     margin-top: 20px;
-}
-
-#footer-text {
-    float: left;
-}
-
-footer p {
-    color: #ffffff;
-    padding: 30px 0 0 65px;
 }
 
 
