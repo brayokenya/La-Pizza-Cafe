@@ -1,5 +1,5 @@
 # La-Pizza-Cafe
-# DELANI STUDIO
+
 
 #### A landing page for Delani Studio, 9th April 2020
 
