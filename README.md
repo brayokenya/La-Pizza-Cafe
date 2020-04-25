@@ -1,7 +1,7 @@
 # La-Pizza-Cafe
 
 
-#### A landing page for Delani Studio, 9th April 2020
+#### A landing page for La-Pizza-Cafe, 9th April 2020
 
 #### By ** Kimani Brian Kiiru**
 
